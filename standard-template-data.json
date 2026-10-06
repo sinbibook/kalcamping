@@ -1,0 +1,3294 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "generatedAt": "2026-10-06T07:50:49.943994913Z",
+    "templateType": "trip_g",
+    "propertyId": "9405048b-4486-4339-8a4d-5f5074da8a7c",
+    "homepageId": "01a11028-1c3c-7563-a9a4-eb982b96f663"
+  },
+  "property": {
+    "id": "9405048b-4486-4339-8a4d-5f5074da8a7c",
+    "name": "가평 K캠핑장 (케이캠핑장)",
+    "nameEn": "Gapyeong Calbongsanouto campingjang",
+    "description": "남이섬 인근 칼봉산 자연휴양림 계곡 앞에 위치한 가평 칼봉산오토캠핑장입니다. 바베큐,불멍이 가능한 가평캠핑카라반에서 좋은 추억 만들고 가세요!",
+    "subtitle": "",
+    "address": "경기 가평군 가평읍 경반안로 229 가평 K캠핑장 (케이캠핑장)",
+    "latitude": 37.8277063289669,
+    "longitude": 127.482446883337,
+    "contactPhone": [
+      "010-2210-1357"
+    ],
+    "contactEmail": "",
+    "checkin": "14:00",
+    "checkout": "11:00",
+    "checkInOutInfo": "[입퇴실안내]\n- 입실: 14시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 20시 00분\n※22시 이후 도착할 시에는 사전연락 필수입니다.",
+    "usageGuide": "[공지사항]\n- 주말은 2박 우선, 1박 예약은 입실 1주 전부터 가능,  1주 이전 예약은 취소됨을 양해해 주시기 바랍니다\n- 성인은 기준 인원까지만 입실 가능, 기준 인원 외 추가는 아동만 가능\n- 사이트마다 사이즈 상이 확인 후 예약 부탁드립니다.\n- 전 텐트사이트 차박 가능\n\n[입퇴실안내]\n- 입실: 14시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 20시 00분\n※22시 이후 도착할 시에는 사전연락 필수입니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 최대인원 초과 입실불가\n※ 성인은 기준 인원까지만 입실 가능, 기준 인원 외 추가는 아동만 가능\n\n[애견동반]\n- 이용 객실: 캠핑사이트\n- 이용 요금: 무료\n- 제한 사항: 통나무룸은 불가\n\n[부대시설]\n[공용 부대시설]\n- 공용 화장실\n- 공용 샤워실\n- 공용 개수대\n\n[계곡]\n- 칼봉산 계곡 도보 1분\n\n[매점]\n- 펜션 내 매점\n\n[마트/편의점]\n- gs25 편의점 차량 4분\n- 하나로마트 차량 7분\n\n[편의 및 주변 시설]\n- 와이파이 보유\n\n[주차장]\n- 주차장 보유\n\n[픽업]\n- 픽업 종류: 마트픽업\n- 마트명: 씨씨마트, 조은마트\n※ 사전에 문의 부탁드립니다.",
+    "reservationGuide": "- 주말은 2박 우선, 1박 예약은 입실 1주 전부터 가능,  1주 이전 예약은 취소됨을 양해해 주시기 바랍니다\n- 성인은 기준 인원까지만 입실 가능, 기준 인원 외 추가는 아동만 가능\n- 사이트마다 사이즈 상이 확인 후 예약 부탁드립니다.\n- 전 텐트사이트 차박 가능",
+    "province": "도/시",
+    "city": "시/군/구",
+    "domain": "kalcamping.kr",
+    "realtimeBookingId": "",
+    "ybsId": "63328",
+    "tripPropertyId": "2532",
+    "partnerType": "sales_agency",
+    "tripProviderName": "트립일레븐",
+    "amenities": [
+      "주차장",
+      "편의점/매점"
+    ],
+    "nearbyAttractions": [
+      "포레스트뷰(산)",
+      "계곡인접"
+    ],
+    "services": [ ],
+    "propertyThemes": [ ],
+    "propertyTypes": [
+      "오토캠핑",
+      "캠핑/글램핑"
+    ],
+    "businessInfo": {
+      "businessName": "케이 캠핑장(K캠핑장)",
+      "businessNumber": "132-19-44480",
+      "representativeName": "김삼용",
+      "businessAddress": "경기도 가평군 가평읍 경반안로 229",
+      "businessPhone": "",
+      "businessEmail": "ks21414@hanmail.net",
+      "businessType": "corporate",
+      "businessCategory": "숙박 및 음식점업",
+      "eCommerceRegistrationNumber": ""
+    },
+    "contractInfo": {
+      "contractStartDate": "2025-09-10T00:00:00.000Z",
+      "contractEndDate": "2025-09-12T00:00:00.000Z",
+      "contractStatus": "active",
+      "contactName": "담당자명",
+      "contactEmail": "담당자 이메일",
+      "contactPhone": "담당자 전화번호",
+      "paymentTerms": null,
+      "cancellationPolicy": null,
+      "bankName": "은행명",
+      "accountNumber": "계좌번호",
+      "accountHolder": "예금주",
+      "commissionRate": 0,
+      "securityDeposit": 0
+    },
+    "facilities": [
+      {
+        "id": "80085473-29f9-4ee0-9b40-99da3a81d66c",
+        "name": "애견동반",
+        "description": "반려견과 함께\n즐거운 여행에서 행복한 시간을 보내보세요.\n\n※ 자세한 내용은 이용안내 페이지 참고 부탁드립니다.",
+        "usageGuide": "- 이용 객실: 캠핑사이트\n- 이용 요금: 무료\n- 제한 사항: 통나무룸은 불가",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "01a0c699-182f-7d4f-a468-144c62b20cbb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/80085473-29f9-4ee0-9b40-99da3a81d66c/main/1790038316748-ea0at7wq2c.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0c699-1a70-7769-91a2-4051c9d1a916",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/80085473-29f9-4ee0-9b40-99da3a81d66c/main/1790038316814-hopakkqrf9.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0c699-18bb-7c4c-b3ec-b69e4377a2a4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/80085473-29f9-4ee0-9b40-99da3a81d66c/main/1790038316819-dngvxdp8dv.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "01a0c699-0e47-75f3-85d2-3089c2edab2c",
+        "name": "운동시설",
+        "description": "캠핑장 내 배드민턴장이 준비되어 있습니다.",
+        "usageGuide": "",
+        "displayOrder": 1,
+        "images": [
+          {
+            "id": "01a0c699-1c39-77e6-991c-6c19e6e39070",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0c699-0e47-75f3-85d2-3089c2edab2c/main/1790038317497-9bmljiohv4.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0c699-1c7a-7ed2-8093-021a7f90a148",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0c699-0e47-75f3-85d2-3089c2edab2c/main/1790038317692-wly8xzx171.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "d3c7d264-654c-47c3-8f3e-d2ffdaaae64a",
+        "name": "부대시설",
+        "description": "공용화장실/샤워실\n공용화장실 및 샤워실이 준비되어 있습니다.\n편안한 여행 되세요.",
+        "usageGuide": "[공용 부대시설]\n- 공용 화장실\n- 공용 샤워실\n- 공용 개수대\n\n[계곡]\n- 칼봉산 계곡 도보 1분\n\n[매점]\n- 펜션 내 매점\n\n[마트/편의점]\n- gs25 편의점 차량 4분\n- 하나로마트 차량 7분",
+        "displayOrder": 2,
+        "images": [
+          {
+            "id": "01a0c699-1919-7f34-8e58-4d6945660de3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d3c7d264-654c-47c3-8f3e-d2ffdaaae64a/main/1790038316829-eb6g47nt90.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0c699-19b4-7bf9-a623-ba180937ddec",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d3c7d264-654c-47c3-8f3e-d2ffdaaae64a/main/1790038317100-yurem5g0k2.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0c699-1a84-78c3-9655-2c5e5bb39e85",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d3c7d264-654c-47c3-8f3e-d2ffdaaae64a/main/1790038317158-13pc9h5gjr.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0c699-1a8b-720f-b043-603f2ec00099",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d3c7d264-654c-47c3-8f3e-d2ffdaaae64a/main/1790038317291-xahtnkawb8.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "43341a8b-47d1-4fa5-9bd4-52004ea51e97",
+        "name": "편의 및 주변 시설",
+        "description": "[ 칼봉산계곡 ]\n도보 1분거리에 칼봉산계곡이 위치해 있습니다\n\n[서비스]\n편안한 이용을 위해\n다양한 서비스를 제공 드립니다.\n\n※ 자세한 내용은 이용안내 페이지 참고 부탁드립니다.",
+        "usageGuide": "- 와이파이 보유",
+        "displayOrder": 3,
+        "images": [
+          {
+            "id": "01a0c699-1695-7445-ae1b-04ba152df9ad",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/43341a8b-47d1-4fa5-9bd4-52004ea51e97/main/1790038315914-fg0leyfm2q.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0c699-168e-773e-92ce-3af912c63e59",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/43341a8b-47d1-4fa5-9bd4-52004ea51e97/main/1790038315531-s4tmagzpkb.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0c699-16a4-74ae-bf3c-07ceb389a1d9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/43341a8b-47d1-4fa5-9bd4-52004ea51e97/main/1790038315923-iz8kv2t6xo.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0c699-16c6-7006-acf1-b87df5ea7af8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/43341a8b-47d1-4fa5-9bd4-52004ea51e97/main/1790038315915-jbxmltdpbj.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0c699-15ba-730b-954b-d210eb52a681",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/43341a8b-47d1-4fa5-9bd4-52004ea51e97/main/1790038315921-gx6prgueyt.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0c699-1652-7d18-a025-168f29d04d63",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/43341a8b-47d1-4fa5-9bd4-52004ea51e97/main/1790038315900-e4eeu9mf7i.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0c699-182d-785a-83cc-ef33707a9f12",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/43341a8b-47d1-4fa5-9bd4-52004ea51e97/main/1790038316601-y4wfi5r513.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0c699-17fa-74f6-a5e5-70f854913f7d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/43341a8b-47d1-4fa5-9bd4-52004ea51e97/main/1790038316714-53yroq83yh.webp",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      }
+    ],
+    "refundPolicies": [
+      {
+        "refundProcessingDays": 10,
+        "refundRate": 100
+      },
+      {
+        "refundProcessingDays": 9,
+        "refundRate": 90
+      },
+      {
+        "refundProcessingDays": 8,
+        "refundRate": 80
+      },
+      {
+        "refundProcessingDays": 7,
+        "refundRate": 70
+      },
+      {
+        "refundProcessingDays": 6,
+        "refundRate": 60
+      },
+      {
+        "refundProcessingDays": 5,
+        "refundRate": 50
+      },
+      {
+        "refundProcessingDays": 4,
+        "refundRate": 40
+      },
+      {
+        "refundProcessingDays": 3,
+        "refundRate": 30
+      },
+      {
+        "refundProcessingDays": 2,
+        "refundRate": 20
+      },
+      {
+        "refundProcessingDays": 1,
+        "refundRate": 10
+      },
+      {
+        "refundProcessingDays": 0,
+        "refundRate": 0
+      }
+    ],
+    "refundSettings": {
+      "customerRefundNotice": "",
+      "immediateRefundEnabled": true,
+      "immediateRefundTimeLimit": "60",
+      "immediateRefundMinuteLimit": "10",
+      "sameDayReservationHourLimit": "0"
+    },
+    "images": [
+      {
+        "thumbnail": [
+          {
+            "id": "a0b94d02-43cb-4175-a26b-d711391e2c3a",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/05/13/72cpMjK5a81C.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
+        "exterior": [
+          {
+            "id": "7dc6dc88-b435-4964-a795-881ba2432b8c",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/05/13/sV15GyW96w0C.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "49607132-ed0b-4396-a2a9-5915260fca70",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/05/13/JZDT83vlBPGg.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "053d407b-3222-4451-b67c-f0bdb941a670",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/11/09/ulbkjcY6JmXx.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "e50bc6bc-eaa7-4f8c-8243-1bbcb22157c2",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/11/09/CGU8kjJS2iQA.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "d68ba2a7-3e7e-4cc5-b306-66a2fd02cb5b",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/11/09/HPFoErWw2MOe.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "8c8fddae-7a61-4cb8-8247-40f1847b3573",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/05/13/dLbBHPqXnlCA.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "2531e8d6-91a4-47ef-8444-1137d5884e48",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/05/13/cbrIL7yH0WJi.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "1378293e-f5c8-4e67-a7f3-aeca42d9ee29",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/05/13/cwUgo8Z5WT9P.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "2d16bff3-f11d-4e5f-b4ae-87e0b477c123",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/04/30/7VbyGFdmYREU.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "4e602557-eb44-4af8-8068-211f5ceba9eb",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/04/30/EJceYzQCitIa.jpg",
+            "sortOrder": 11,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "3dfe08d3-945c-4e95-b0ff-a16372b5e818",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/04/30/TrOZ5fzgRoxA.jpg",
+            "sortOrder": 12,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "45c01607-fa27-464d-a865-cce83e4a954a",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/04/30/QgMpfWLmSY6z.jpg",
+            "sortOrder": 13,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "34bc4867-7a6e-4dab-a366-64c55d0fddd7",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/04/30/Pzdyp80KjNR6.jpg",
+            "sortOrder": 14,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "0e6f6958-cfef-42e5-bd5e-84a33b36d557",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/04/30/CXs3iz8U2cgl.jpg",
+            "sortOrder": 15,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "36c1a9de-c3d6-4b4d-9381-671c58df506d",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/04/30/dlzBg9PCJocI.jpg",
+            "sortOrder": 16,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
+        "surrounding": [ ],
+        "commonArea": [ ]
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "id": "6ff77b4d-f9a3-4be4-91c5-f69e6ab907bf",
+      "name": "A-1(파쇄석/2가족사이트)",
+      "description": ",",
+      "roomInfo": "",
+      "usageGuide": "★ 전 텐트사이트 차박 가능! ★\r\n\r\n캠핑사이트 / 파쇄석 \r\n크기 : 11m * 10m\r\n*** 주말은 2박 우선이며 1박 예약은 입실 1주전 부터 가능합니다. 1주 이전 예약은 취소됨을 양해해 주시기 바랍니다.****\r\n※ 성인은 2인까지만 입실 가능, 기준인원 외에 인원 추가는 성인 불가(아동만 추가 가능)\r\n\r\n[ 추 가 요 금 ]\r\n(1박기준/현장결제)\r\n영유아포함 1인당 10,000원\r\n※ 최대인원 초과 입실불가\r\n\r\n[ 공 용 부 대 시 설 ]\r\n- 공용 화장실\r\n- 공용 샤워실\r\n- 공용 개수대",
+      "group": null,
+      "size": 3.31,
+      "baseOccupancy": 4,
+      "maxOccupancy": 8,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 0,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "bedTypes": [ ],
+      "bedConfigs": [ ],
+      "amenities": [ ],
+      "roomViews": [ ],
+      "roomStructures": [ ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "37b16afe-4ab9-4191-ad60-be68032a85a2",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/09/PgB5qxHAmzyE.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "80c63402-0452-4618-ad06-b316a29ed787",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/09/EvoYCqGtfZnR.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "4013906e-665d-4a35-bed4-045e6de244a8",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/09/81lGKuyWQP7m.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 1
+    },
+    {
+      "id": "fc4e2169-3da3-489f-a708-7257a6325bce",
+      "name": "A-3(파쇄석/2가족사이트)",
+      "description": ",",
+      "roomInfo": "",
+      "usageGuide": "★ 전 텐트사이트 차박 가능! ★\r\n\r\n캠핑사이트 / 파쇄석 \r\n크기 : 8m * 8m\r\n*** 주말은 2박 우선이며 1박 예약은 입실 1주전 부터 가능합니다. 1주 이전 예약은 취소됨을 양해해 주시기 바랍니다.****\r\n※ 성인은 2인까지만 입실 가능, 기준인원 외에 인원 추가는 성인 불가(아동만 추가 가능)\r\n\r\n[ 추 가 요 금 ]\r\n(1박기준/현장결제)\r\n영유아포함 1인당 10,000원\r\n※ 최대인원 초과 입실불가\r\n\r\n[ 공 용 부 대 시 설 ]\r\n- 공용 화장실\r\n- 공용 샤워실\r\n- 공용 개수대",
+      "group": null,
+      "size": 3.31,
+      "baseOccupancy": 4,
+      "maxOccupancy": 8,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 0,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "bedTypes": [ ],
+      "bedConfigs": [ ],
+      "amenities": [ ],
+      "roomViews": [ ],
+      "roomStructures": [ ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "4c03615f-e619-4b4b-b036-56bf6c450b09",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/09/Mi2WDEuABsLx.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "80ca65d7-840d-40da-a179-27e919090720",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/09/mRU08eGwOWN7.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 2
+    },
+    {
+      "id": "da4db2d1-4491-41b3-9882-de3faa9930cf",
+      "name": "A-5(테크)",
+      "description": ",",
+      "roomInfo": "",
+      "usageGuide": "★ 전 텐트사이트 차박 가능! ★\r\n\r\n캠핑사이트 / 테크\r\n크기 : 12m * 5m / 테크 크기 : 7.2m * 4.3m\r\n*** 주말은 2박 우선이며 1박 예약은 입실 1주전 부터 가능합니다. 1주 이전 예약은 취소됨을 양해해 주시기 바랍니다.****\r\n※ 성인은 2인까지만 입실 가능, 기준인원 외에 인원 추가는 성인 불가(아동만 추가 가능)\r\n\r\n[ 추 가 요 금 ]\r\n(1박기준/현장결제)\r\n영유아포함 1인당 10,000원\r\n※ 최대인원 초과 입실불가\r\n\r\n[ 공 용 부 대 시 설 ]\r\n- 공용 화장실\r\n- 공용 샤워실\r\n- 공용 개수대",
+      "group": null,
+      "size": 3.31,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 0,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "bedTypes": [ ],
+      "bedConfigs": [ ],
+      "amenities": [ ],
+      "roomViews": [ ],
+      "roomStructures": [ ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "15c9401f-4c49-46c8-9fb4-7a437df66ba4",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/09/P0LxezcY36u2.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "8f90500b-e2e4-4eff-8a99-9b254b25cc84",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/09/7uZmMBFLa2lJ.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "69b12076-8ca6-4742-a525-aa23ff2d8863",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/09/MKBDVZEswx5k.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 3
+    },
+    {
+      "id": "7891980c-3687-4085-8f7d-8a84e49a5432",
+      "name": "A-6(테크)",
+      "description": ",",
+      "roomInfo": "",
+      "usageGuide": "★ 전 텐트사이트 차박 가능! ★\r\n\r\n캠핑사이트 / 테크\r\n크기 : 16m * 7m\r\n*** 주말은 2박 우선이며 1박 예약은 입실 1주전 부터 가능합니다. 1주 이전 예약은 취소됨을 양해해 주시기 바랍니다.****\r\n※ 성인은 2인까지만 입실 가능, 기준인원 외에 인원 추가는 성인 불가(아동만 추가 가능)\r\n\r\n[ 추 가 요 금 ]\r\n(1박기준/현장결제)\r\n영유아포함 1인당 10,000원\r\n※ 최대인원 초과 입실불가\r\n\r\n[ 공 용 부 대 시 설 ]\r\n- 공용 화장실\r\n- 공용 샤워실\r\n- 공용 개수대",
+      "group": null,
+      "size": 3.31,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 0,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "bedTypes": [ ],
+      "bedConfigs": [ ],
+      "amenities": [ ],
+      "roomViews": [ ],
+      "roomStructures": [ ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "b22bc005-edca-4284-b66a-3140a129e6fa",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/12/4LPlw3WuFj8X.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "53e67c9b-7631-48af-9587-dea3f7f362b5",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/30/cl6Tf7DewZty.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "d26aa24b-6726-46ec-8403-09cef5f04467",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/30/2BZ5U3ITAqR8.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "62e470fa-fe5c-46e9-aa93-bd23c4ec0a6d",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/30/QSG0OTzC4soq.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 4
+    },
+    {
+      "id": "c977d071-e1bd-4427-9239-f062453b4eb2",
+      "name": "A-7(테크)",
+      "description": ",",
+      "roomInfo": "",
+      "usageGuide": "★ 전 텐트사이트 차박 가능! ★\r\n\r\n캠핑사이트 / 테크\r\n크기 : 11m * 7m\r\n*** 주말은 2박 우선이며 1박 예약은 입실 1주전 부터 가능합니다. 1주 이전 예약은 취소됨을 양해해 주시기 바랍니다.****\r\n※ 성인은 2인까지만 입실 가능, 기준인원 외에 인원 추가는 성인 불가(아동만 추가 가능)\r\n\r\n[ 추 가 요 금 ]\r\n(1박기준/현장결제)\r\n영유아포함 1인당 10,000원\r\n※ 최대인원 초과 입실불가\r\n\r\n[ 공 용 부 대 시 설 ]\r\n- 공용 화장실\r\n- 공용 샤워실\r\n- 공용 개수대",
+      "group": null,
+      "size": 3.31,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 0,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "bedTypes": [ ],
+      "bedConfigs": [ ],
+      "amenities": [ ],
+      "roomViews": [ ],
+      "roomStructures": [ ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "1de48efa-5772-45d3-ad30-2af7213de977",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/12/JDvtPbysHxLV.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 5
+    },
+    {
+      "id": "85893e04-3f83-4e45-9353-6b207d56d315",
+      "name": "A-11(테크)",
+      "description": ",",
+      "roomInfo": "",
+      "usageGuide": "캠핑사이트 / 테크\r\n\r\n※ 성인은 2인까지만 입실 가능, 기준인원 외에 인원 추가는 성인 불가(아동만 추가 가능)\r\n\r\n[ 추 가 요 금 ]\r\n(1박기준/현장결제)\r\n영유아포함 1인당 10,000원\r\n※ 최대인원 초과 입실불가\r\n\r\n[ 공 용 부 대 시 설 ]\r\n- 공용 화장실\r\n- 공용 샤워실\r\n- 공용 개수대",
+      "group": null,
+      "size": 3.31,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 0,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "bedTypes": [ ],
+      "bedConfigs": [ ],
+      "amenities": [ ],
+      "roomViews": [ ],
+      "roomStructures": [ ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "1ba4f339-93e6-4725-88d1-e5d1f40d3c95",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/12/EkIGtNvF86zW.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 9
+    },
+    {
+      "id": "ddf1a9ab-3229-4a53-8e84-9d5a7f5a237f",
+      "name": "B-1(테크)",
+      "description": ",",
+      "roomInfo": "",
+      "usageGuide": "★ 전 텐트사이트 차박 가능! ★\r\n\r\n캠핑사이트 / 파쇄석 \r\n*** 주말은 2박 우선이며 1박 예약은 입실 1주전 부터 가능합니다. 1주 이전 예약은 취소됨을 양해해 주시기 바랍니다.***\r\n※ 성인은 2인까지만 입실 가능, 기준인원 외에 인원 추가는 성인 불가(아동만 추가 가능)\r\n\r\n[ 추 가 요 금 ]\r\n(1박기준/현장결제)\r\n영유아포함 1인당 10,000원\r\n※ 최대인원 초과 입실불가\r\n\r\n[ 공 용 부 대 시 설 ]\r\n- 공용 화장실\r\n- 공용 샤워실\r\n- 공용 개수대",
+      "group": null,
+      "size": 3.31,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 0,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "bedTypes": [ ],
+      "bedConfigs": [ ],
+      "amenities": [ ],
+      "roomViews": [ ],
+      "roomStructures": [ ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "ba3de742-b4e1-4d2f-804b-919d9170cb72",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/12/HlNXx56seYdA.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 10
+    },
+    {
+      "id": "87d7db1e-5d66-4f7a-ab04-2707636d5e5b",
+      "name": "B-2(테크)",
+      "description": ",",
+      "roomInfo": "",
+      "usageGuide": "★ 전 텐트사이트 차박 가능! ★\r\n\r\n캠핑사이트 / 파쇄석 \r\n*** 주말은 2박 우선이며 1박 예약은 입실 1주전 부터 가능합니다. 1주 이전 예약은 취소됨을 양해해 주시기 바랍니다.****\r\n※ 성인은 2인까지만 입실 가능, 기준인원 외에 인원 추가는 성인 불가(아동만 추가 가능)\r\n\r\n[ 추 가 요 금 ]\r\n(1박기준/현장결제)\r\n영유아포함 1인당 10,000원\r\n※ 최대인원 초과 입실불가\r\n\r\n[ 공 용 부 대 시 설 ]\r\n- 공용 화장실\r\n- 공용 샤워실\r\n- 공용 개수대",
+      "group": null,
+      "size": 3.31,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 0,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "bedTypes": [ ],
+      "bedConfigs": [ ],
+      "amenities": [ ],
+      "roomViews": [ ],
+      "roomStructures": [ ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "6e8966c4-2aea-4de9-9414-5b36782fa751",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/12/1oPUGsvbfNrW.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 11
+    },
+    {
+      "id": "940a16ff-fef4-4520-adcd-e756c28bfb45",
+      "name": "B-3(테크)",
+      "description": ", 주방1+화장실1",
+      "roomInfo": "",
+      "usageGuide": "★ 전 텐트사이트 차박 가능! ★\r\n\r\n캠핑사이트 / 파쇄석 \r\n*** 주말은 2박 우선이며 1박 예약은 입실 1주전 부터 가능합니다. 1주 이전 예약은 취소됨을 양해해 주시기 바랍니다.****\r\n※ 성인은 2인까지만 입실 가능, 기준인원 외에 인원 추가는 성인 불가(아동만 추가 가능)\r\n\r\n[ 추 가 요 금 ]\r\n(1박기준/현장결제)\r\n영유아포함 1인당 10,000원\r\n※ 최대인원 초과 입실불가\r\n\r\n[ 부 대 시 설 ]\r\n- 개별 화장실\r\n- 개별 샤워실\r\n- 개별 개수대\r\n* 카라반 내 시설 이용 가능",
+      "group": null,
+      "size": 3.31,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [ ],
+      "bedConfigs": [ ],
+      "amenities": [ ],
+      "roomViews": [ ],
+      "roomStructures": [ ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "df0e9797-9d52-44c0-9a7c-63784c6a311b",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/12/Xm60NlGv7JZU.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 12
+    },
+    {
+      "id": "e252fabf-28b7-46b2-975f-b3e3abe76dfa",
+      "name": "B-4(테크/2가족사이트)",
+      "description": ",",
+      "roomInfo": "",
+      "usageGuide": "★ 전 텐트사이트 차박 가능! ★\r\n\r\n캠핑사이트 / 테크 / 두 가족 사이트\r\n크기 : 16m * 10m\r\n*** 주말은 2박 우선이며 1박 예약은 입실 1주전 부터 가능합니다. 1주 이전 예약은 취소됨을 양해해 주시기 바랍니다.****\r\n※ 성인은 4인까지만 입실 가능, 기준인원 외에 인원 추가는 성인 불가(아동만 추가 가능)\r\n\r\n[ 추 가 요 금 ]\r\n(1박기준/현장결제)\r\n영유아포함 1인당 10,000원\r\n※ 최대인원 초과 입실불가\r\n\r\n[ 공 용 부 대 시 설 ]\r\n- 공용 화장실\r\n- 공용 샤워실\r\n- 공용 개수대",
+      "group": null,
+      "size": 3.31,
+      "baseOccupancy": 4,
+      "maxOccupancy": 8,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 0,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "bedTypes": [ ],
+      "bedConfigs": [ ],
+      "amenities": [ ],
+      "roomViews": [ ],
+      "roomStructures": [ ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "2b2fb3ef-057c-4b20-b36b-69cdc2274278",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/12/7fktBHbVwSjF.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "0050d17f-12ce-4f6d-bda0-f0f5086e7042",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/30/ZgeJkWvozNSp.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "885cba7d-e398-45c1-85ea-c5edfd8790ee",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/30/elWntUvOYfhm.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "cacbfd53-3869-4d00-873e-4c0e05e1a4b7",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/30/3Idv1cpoteqS.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 13
+    },
+    {
+      "id": "7e0a70ea-ebec-4cf5-9167-db70fbfeb574",
+      "name": "B-5(테크)",
+      "description": ",",
+      "roomInfo": "",
+      "usageGuide": "★ 전 텐트사이트 차박 가능! ★\r\n\r\n캠핑사이트 / 테크\r\n\r\n*** 주말은 2박 우선이며 1박 예약은 입실 1주전 부터 가능합니다. 1주 이전 예약은 취소됨을 양해해 주시기 바랍니다.****\r\n※ 성인은 2인까지만 입실 가능, 기준인원 외에 인원 추가는 성인 불가(아동만 추가 가능)\r\n\r\n[ 추 가 요 금 ]\r\n(1박기준/현장결제)\r\n영유아포함 1인당 10,000원\r\n※ 최대인원 초과 입실불가\r\n\r\n[ 공 용 부 대 시 설 ]\r\n- 공용 화장실\r\n- 공용 샤워실\r\n- 공용 개수대",
+      "group": null,
+      "size": 3.31,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 0,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "bedTypes": [ ],
+      "bedConfigs": [ ],
+      "amenities": [ ],
+      "roomViews": [ ],
+      "roomStructures": [ ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "300d5650-d34e-4dec-9dde-ea3c92a8bdd8",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/12/WmXs3hqgwTj5.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 14
+    },
+    {
+      "id": "d896ddb5-ccd5-4ae6-b0cf-8e5f556a8212",
+      "name": "B-6(테크)",
+      "description": ",",
+      "roomInfo": "",
+      "usageGuide": "★ 전 텐트사이트 차박 가능! ★\r\n\r\n캠핑사이트 / 테크\r\n\r\n*** 주말은 2박 우선이며 1박 예약은 입실 1주전 부터 가능합니다. 1주 이전 예약은 취소됨을 양해해 주시기 바랍니다.****\r\n※ 성인은 2인까지만 입실 가능, 기준인원 외에 인원 추가는 성인 불가(아동만 추가 가능)\r\n\r\n[ 추 가 요 금 ]\r\n(1박기준/현장결제)\r\n영유아포함 1인당 10,000원\r\n※ 최대인원 초과 입실불가\r\n\r\n[ 공 용 부 대 시 설 ]\r\n- 공용 화장실\r\n- 공용 샤워실\r\n- 공용 개수대",
+      "group": null,
+      "size": 3.31,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 0,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "bedTypes": [ ],
+      "bedConfigs": [ ],
+      "amenities": [ ],
+      "roomViews": [ ],
+      "roomStructures": [ ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "40cbc2ad-62b4-448e-8a96-c6cc817650b7",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/12/HAw6cNraPspy.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 15
+    },
+    {
+      "id": "672a09d9-4531-4503-b8c6-ff5c8424b531",
+      "name": "B-7(파쇄석/2가족사이트)",
+      "description": ", 주방1+화장실1",
+      "roomInfo": "",
+      "usageGuide": "캠핑사이트 / 파쇄석 / 두 가족 사이트\r\n※ 성인은 4인까지만 입실 가능, 기준인원 외에 인원 추가는 성인 불가(아동만 추가 가능)\r\n\r\n[ 추 가 요 금 ]\r\n(1박기준/현장결제)\r\n영유아포함 1인당 10,000원\r\n※ 최대인원 초과 입실불가\r\n\r\n[ 부 대 시 설 ]\r\n- 개별 화장실\r\n- 개별 샤워실\r\n- 개별 개수대\r\n* 카라반 내 시설 이용 가능",
+      "group": null,
+      "size": 3.31,
+      "baseOccupancy": 4,
+      "maxOccupancy": 8,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [ ],
+      "bedConfigs": [ ],
+      "amenities": [ ],
+      "roomViews": [ ],
+      "roomStructures": [ ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "c9cfe7cb-ebcb-4119-b66e-7bdec45780f9",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/12/Ra0KZjcQPz3s.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "2dfe0f17-0a2a-4a2e-b70b-6d8b38a99957",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/30/e0sBqdYlKENo.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "f6bf6334-d13f-46b7-8cf3-9640192505b0",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/30/XEtY70h2SVgR.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "b60d8459-8923-4bd9-822e-803a1503e16b",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/30/XdIjuThso8RC.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 16
+    },
+    {
+      "id": "d8bdb4ba-c0c2-41d4-96e1-548da044e029",
+      "name": "B-8(파쇄석)",
+      "description": ", 주방1+화장실1",
+      "roomInfo": "",
+      "usageGuide": "★ 전 텐트사이트 차박 가능! ★\r\n\r\n캠핑사이트 / 파쇄석 \r\n*** 주말은 2박 우선이며 1박 예약은 입실 1주전 부터 가능합니다. 1주 이전 예약은 취소됨을 양해해 주시기 바랍니다.****\r\n※ 성인은 2인까지만 입실 가능, 기준인원 외에 인원 추가는 성인 불가(아동만 추가 가능)\r\n\r\n[ 추 가 요 금 ]\r\n(1박기준/현장결제)\r\n영유아포함 1인당 10,000원\r\n※ 최대인원 초과 입실불가\r\n\r\n[ 부 대 시 설 ]\r\n- 개별 화장실\r\n- 개별 샤워실\r\n- 개별 개수대\r\n* 카라반 내 시설 이용 가능",
+      "group": null,
+      "size": 3.31,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [ ],
+      "bedConfigs": [ ],
+      "amenities": [ ],
+      "roomViews": [ ],
+      "roomStructures": [ ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "5f916e16-4535-4732-b17c-bef0307b8959",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2022/05/13/2Y9xiBtN7QVh.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "af24f0a6-a911-46a0-b751-b9eb00002f68",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/30/q9rOfQDNCLhj.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 17
+    },
+    {
+      "id": "ec47f1a8-be56-4bda-9913-2e1aa5bced6a",
+      "name": "B-9(파쇄석)",
+      "description": ", 주방1+화장실1",
+      "roomInfo": "",
+      "usageGuide": "★ 전 텐트사이트 차박 가능! ★\r\n\r\n캠핑사이트 / 파쇄석 \r\n*** 주말은 2박 우선이며 1박 예약은 입실 1주전 부터 가능합니다. 1주 이전 예약은 취소됨을 양해해 주시기 바랍니다.****\r\n※ 성인은 2인까지만 입실 가능, 기준인원 외에 인원 추가는 성인 불가(아동만 추가 가능)\r\n\r\n[ 추 가 요 금 ]\r\n(1박기준/현장결제)\r\n영유아포함 1인당 10,000원\r\n※ 최대인원 초과 입실불가\r\n\r\n[ 부 대 시 설 ]\r\n- 개별 화장실\r\n- 개별 샤워실\r\n- 개별 개수대\r\n* 카라반 내 시설 이용 가능",
+      "group": null,
+      "size": 3.31,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [ ],
+      "bedConfigs": [ ],
+      "amenities": [ ],
+      "roomViews": [ ],
+      "roomStructures": [ ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "6f687f0d-a213-41d4-aedb-5f2c43ec5d4e",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2022/05/13/KIgUzpyLD1uA.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 18
+    },
+    {
+      "id": "1a088056-54b2-4e18-bb56-0f36a1a3b5e1",
+      "name": "B-10(파쇄석)",
+      "description": ", 주방1+화장실1",
+      "roomInfo": "",
+      "usageGuide": "★ 전 텐트사이트 차박 가능! ★\r\n\r\n캠핑사이트 / 파쇄석 \r\n*** 주말은 2박 우선이며 1박 예약은 입실 1주전 부터 가능합니다. 1주 이전 예약은 취소됨을 양해해 주시기 바랍니다.****\r\n※ 성인은 2인까지만 입실 가능, 기준인원 외에 인원 추가는 성인 불가(아동만 추가 가능)\r\n\r\n[ 추 가 요 금 ]\r\n(1박기준/현장결제)\r\n영유아포함 1인당 10,000원\r\n※ 최대인원 초과 입실불가\r\n\r\n[ 부 대 시 설 ]\r\n- 개별 화장실\r\n- 개별 샤워실\r\n- 개별 개수대\r\n* 카라반 내 시설 이용 가능",
+      "group": null,
+      "size": 3.31,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [ ],
+      "bedConfigs": [ ],
+      "amenities": [ ],
+      "roomViews": [ ],
+      "roomStructures": [ ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "67c04d72-b14f-4c9c-84c0-34bf08216513",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2022/05/13/UwHrMxq053lj.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 19
+    },
+    {
+      "id": "67f3caa4-4feb-4688-9b2e-629fdab94032",
+      "name": "B-11(파쇄석)",
+      "description": ", 주방1+화장실1",
+      "roomInfo": "",
+      "usageGuide": "★ 전 텐트사이트 차박 가능! ★\r\n\r\n캠핑사이트 / 파쇄석 \r\n*** 주말은 2박 우선이며 1박 예약은 입실 1주전 부터 가능합니다. 1주 이전 예약은 취소됨을 양해해 주시기 바랍니다.****\r\n※ 성인은 2인까지만 입실 가능, 기준인원 외에 인원 추가는 성인 불가(아동만 추가 가능)\r\n\r\n[ 추 가 요 금 ]\r\n(1박기준/현장결제)\r\n영유아포함 1인당 10,000원\r\n※ 최대인원 초과 입실불가\r\n\r\n[ 부 대 시 설 ]\r\n- 개별 화장실\r\n- 개별 샤워실\r\n- 개별 개수대\r\n* 카라반 내 시설 이용 가능",
+      "group": null,
+      "size": 3.31,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [ ],
+      "bedConfigs": [ ],
+      "amenities": [ ],
+      "roomViews": [ ],
+      "roomStructures": [ ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "3585c7bf-1bc2-4910-a25b-65f2570007ce",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2022/05/13/3UCtQhbNvAZB.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 20
+    },
+    {
+      "id": "ba6a4200-fa06-424b-954d-001246ee6190",
+      "name": "통나무 중형룸A",
+      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\n12.00평\nTV,냉장고,에어컨,취사시설/도구,가스레인지,전기밥솥,전자레인지,커피포트,드라이기,와이파이,금연,VOD,욕실용품",
+      "roomInfo": "",
+      "usageGuide": "원룸형: 침대룸+주방+화장실\r\n\r\n[ 추 가 요 금 ]\r\n(1박기준/현장결제)\r\n영유아포함 1인당 10,000원\r\n※ 최대인원 초과 입실불가",
+      "group": null,
+      "size": 39.67,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "금연",
+        "무료 WiFi",
+        "헤어드라이어",
+        "욕실용품",
+        "VOD",
+        "전기포트",
+        "전자레인지",
+        "전기밥솥",
+        "가스레인지",
+        "취사시설/도구",
+        "에어컨",
+        "냉장고",
+        "TV"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "2e9f26c6-2f74-47de-a3c1-ad875a83ed91",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/30/jly1Q5Tz7FBL.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "337679ed-1d80-4bc7-8e9e-4434ae66243d",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/30/AzLG5HlB1E6h.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "35393486-aefe-449c-b5fa-03efda946f6f",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/30/Z3UG4NWxvSsH.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "817eb0f1-035b-4f7a-acc1-fb5cbd9e08f3",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/30/KFDqBU1VXEPh.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "c86f24ef-86b0-44eb-96dc-9d46c88e2329",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/30/JG5Df0FYlr2i.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "dd605986-56af-4f2c-a510-7bed2c01ddd8",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/30/lGcMK6o5Tf4C.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "10d21775-9e81-406c-996f-3147f07e4c1a",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/09/JcFofINhy305.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 21
+    },
+    {
+      "id": "c084d2b8-ddc8-4df9-9860-94451ca8648c",
+      "name": "C-1(파쇄석/2가족사이트)",
+      "description": "",
+      "roomInfo": "",
+      "usageGuide": "★ 전 텐트사이트 차박 가능! ★\r\n\r\n캠핑사이트 / 파쇄석 / 두 가족 사이트\r\n크기 : 16m * 10m\r\n※ 성인은 4인까지만 입실 가능, 기준인원 외에 인원 추가는 성인 불가(아동만 추가 가능)\r\n\r\n[ 추 가 요 금 ]\r\n(1박기준/현장결제)\r\n영유아포함 1인당 10,000원\r\n※ 최대인원 초과 입실불가\r\n\r\n[ 공 용 부 대 시 설 ]\r\n- 공용 화장실\r\n- 공용 샤워실\r\n- 공용 개수대",
+      "group": null,
+      "size": 3.31,
+      "baseOccupancy": 4,
+      "maxOccupancy": 8,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 0,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "bedTypes": [ ],
+      "bedConfigs": [ ],
+      "amenities": [ ],
+      "roomViews": [ ],
+      "roomStructures": [ ],
+      "status": "inactive",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "030afce7-452b-4238-afbe-d95a5523644e",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/09/aJnC1AozvRcq.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "2530e52b-d37a-45c1-83e9-e6e33c2cdb1a",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/09/Xh0AUVqTF8nd.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "b4390e66-8bda-4622-a603-a6f9ee03d4aa",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/09/Z5NYvHnGeBS7.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 22
+    },
+    {
+      "id": "730a2ce8-8707-4a25-8181-74109f313aa0",
+      "name": "A-8(테크)(비활성)",
+      "description": "",
+      "roomInfo": "",
+      "usageGuide": "캠핑사이트 / 테크\r\n※ 성인은 2인까지만 입실 가능, 기준인원 외에 인원 추가는 성인 불가(아동만 추가 가능)\r\n\r\n[ 추 가 요 금 ]\r\n(1박기준/현장결제)\r\n영유아포함 1인당 10,000원\r\n※ 최대인원 초과 입실불가\r\n\r\n[ 공 용 부 대 시 설 ]\r\n- 공용 화장실\r\n- 공용 샤워실\r\n- 공용 개수대",
+      "group": null,
+      "size": 3.31,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 0,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "bedTypes": [ ],
+      "bedConfigs": [ ],
+      "amenities": [ ],
+      "roomViews": [ ],
+      "roomStructures": [ ],
+      "status": "inactive",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "527480c5-2589-4083-a599-9c62cc309d20",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/12/4NaXwebcTijI.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 23
+    },
+    {
+      "id": "18cc6648-f182-4c78-bb27-bc2f96caaa5e",
+      "name": "B-7(파쇄석/2가족사이트)(비활성)",
+      "description": "",
+      "roomInfo": "",
+      "usageGuide": "캠핑사이트 / 파쇄석 / 두 가족 사이트\r\n※ 성인은 4인까지만 입실 가능, 기준인원 외에 인원 추가는 성인 불가(아동만 추가 가능)\r\n\r\n[ 추 가 요 금 ]\r\n(1박기준/현장결제)\r\n영유아포함 1인당 10,000원\r\n※ 최대인원 초과 입실불가\r\n\r\n[ 부 대 시 설 ]\r\n- 개별 화장실\r\n- 개별 샤워실\r\n- 개별 개수대\r\n* 카라반 내 시설 이용 가능",
+      "group": null,
+      "size": 3.31,
+      "baseOccupancy": 4,
+      "maxOccupancy": 8,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [ ],
+      "bedConfigs": [ ],
+      "amenities": [ ],
+      "roomViews": [ ],
+      "roomStructures": [ ],
+      "status": "inactive",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "242eefe0-d533-488b-85b6-fb258c758510",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/04/12/ovLYX8wC2flO.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 24
+    }
+  ],
+  "homepage": {
+    "id": "01a11028-1c3c-7563-a9a4-eb982b96f663",
+    "domain": "kalcamping.kr",
+    "templateType": "trip_g",
+    "images": [
+      {
+        "logo": [
+          {
+            "id": "01a11028-49c4-7560-b4de-22abc2a01a85",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/logo/1791272427334-7h4fv8rg3e.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "title": "가평 K캠핑장 (케이캠핑장)",
+      "description": "남이섬 인근 칼봉산 자연휴양림 계곡 앞에 위치한 가평 칼봉산오토캠핑장입니다. 바베큐,불멍이 가능한 가평캠핑카라반에서 좋은 추억 만들고 가세요!",
+      "keywords": "가평펜션,가평애견펜션,가평캠핑펜션,가평글램핑펜션,가평바베큐펜션,경기도펜션,경기도애견펜션,경기도캠핑펜션,경기도글램핑펜션,경기도바베큐펜션,경기펜션,경기애견펜션,경기캠핑펜션,경기글램핑펜션,경기바베큐펜션",
+      "naverSiteVerification": "367fd0a9ca90f7e279160fa210e5be60f5c733ef",
+      "googleSiteVerification": "oPD_jdsqMdgpFttLB8aggdT2rRrNIbMzmjOtYODQUPs"
+    },
+    "socialLinks": {
+      "facebook": null,
+      "instagram": null,
+      "blog": null,
+      "youtube": null
+    },
+    "customFields": {
+      "pages": {
+        "index": {
+          "sections": [
+            {
+              "hero": {
+                "title": "K CAMPINGJANG",
+                "images": [
+                  {
+                    "id": "01a11028-49e8-7bf2-96a9-801dd25c92c1",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/index_hero/1791272427034-ypuhrqxa59.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11028-49e0-72b3-aec9-e0d836b8325d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/index_hero/1791272427333-698luy60b0.webp",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11028-49ef-78c1-a2e0-866030edfea2",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/index_hero/1791272427234-ferqbmtjol.webp",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11028-49f0-7410-a456-3f4fb7e8cf0e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/index_hero/1791272427443-yfa23wg8a8.webp",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11028-49f0-79cb-a39b-2101b9d2b530",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/index_hero/1791272427331-z13pcp5hcr.webp",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11028-49dc-791d-96a4-db130100c23b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/index_hero/1791272427793-rtgy4e0tjd.webp",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11028-49f5-7287-86eb-1b7fe07cb7d3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/index_hero/1791272428027-glbq39uqr5.webp",
+                    "sortOrder": 6,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11028-49ff-7134-a3ef-2db863ff6a7f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/index_hero/1791272428043-yejgpyn9sw.webp",
+                    "sortOrder": 7,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11028-4a00-77a9-8d8d-c87d92f2d9b3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/index_hero/1791272428050-6k3evnzyjf.webp",
+                    "sortOrder": 8,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11028-4a0a-707a-9671-1848e48687d1",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/index_hero/1791272428119-28v3btawb0.webp",
+                    "sortOrder": 9,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11028-4a11-7135-996a-5e824a00a840",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/index_hero/1791272428241-bsoz1dmkpz.webp",
+                    "sortOrder": 10,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": "대자연의 푸르름과 편안한 휴식이 있는 이 곳, 가평 K캠핑장 (케이캠핑장)"
+              },
+              "closing": {
+                "title": "아름다운 자연을 고스란히 느낄 수 있는 이곳에서\n특별한 하루를 만들어보세요.",
+                "images": [
+                  {
+                    "id": "01a11028-4a17-702a-ad9e-7c8b4b9241f3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/index_closing/1791272428493-2fwwfxbmlr.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": "Stay with your beloved companion In a clean, cozy cabin.\nEnjoy a happy moment with your companion"
+              },
+              "essence": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              },
+              "gallery": {
+                "title": "K Campingjang",
+                "images": [
+                  {
+                    "id": "01a11028-4a59-7f75-8409-e60342f8b2c0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/index_gallery/1791272428267-knyq2rxfr2.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": "맑은 공기를 느낄 수 있는\n가평 K캠핑장 (케이캠핑장)에 오신 것을 환영합니다."
+              },
+              "signature": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              }
+            }
+          ]
+        },
+        "directions": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [
+                  {
+                    "id": "01a11028-4abf-77e1-b1e7-064a9c4facdb",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/directions_hero/1791272430428-qg3fs3miyj.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": ""
+              },
+              "notice": {
+                "title": "[자가용 이용시]",
+                "description": "· 네비게이션에 주소를 검색해주세요.\n지번 주소 : 경기 가평군 가평읍 경반리 515\n도로명 주소 : 경기 가평군 가평읍 경반안로 229"
+              }
+            }
+          ]
+        },
+        "main": {
+          "sections": [
+            {
+              "hero": {
+                "title": "캠핑장 인사말",
+                "images": [
+                  {
+                    "id": "01a11028-4a55-74d7-8347-02ecbe70a572",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/main_hero/1791272428740-n3p5fs5kcz.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11028-4a21-7714-a38c-db9957a5c6ba",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/main_hero/1791272428713-sulyl6z92n.webp",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11028-4a24-7610-ad71-e22437f8664e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/main_hero/1791272428954-ht4ji3n7s5.webp",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11028-4a39-7ac7-93ca-340d8b74d279",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/main_hero/1791272429037-ax2cad5son.webp",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11028-4a3d-7674-a2e2-fa0db80421d3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/main_hero/1791272428963-mybppjf0p8.webp",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11028-4a50-701c-821c-d81a1a3f53b2",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/main_hero/1791272429239-5wi2vk5lqt.webp",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11028-4a55-789f-aa71-ad68c8f0bec0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/main_hero/1791272429247-wb0ex3oomu.webp",
+                    "sortOrder": 6,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11028-4a77-7bed-973d-463390a4ae0e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/main_hero/1791272429328-pxlg1wm0ru.webp",
+                    "sortOrder": 7,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11028-4a77-7f45-a88f-3e6f4538870e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/main_hero/1791272429420-apuk0ng0ku.webp",
+                    "sortOrder": 8,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11028-4a69-7652-bc16-f01672898416",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/main_hero/1791272429553-614zx6m4xb.webp",
+                    "sortOrder": 9,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": "가평 K캠핑장 (케이캠핑장) - 캠핑장소개"
+              },
+              "about": [
+                {
+                  "title": "Greetings",
+                  "images": [
+                    {
+                      "id": "01a11028-4a6c-72af-84b9-9ca817373775",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/main_about/1791272429578-alphvim6qv.webp",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "2298d017-8988-4859-9653-c07f780b0bfe"
+                    },
+                    {
+                      "id": "01a11028-4abc-7540-9d6a-9f7a55c23c36",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/main_about/1791272429610-abow7zw2u0.webp",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "2298d017-8988-4859-9653-c07f780b0bfe"
+                    },
+                    {
+                      "id": "01a11028-4a80-7f4d-9275-2be03ac1ed17",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/main_about/1791272429741-qiuf312i9z.webp",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "2298d017-8988-4859-9653-c07f780b0bfe"
+                    },
+                    {
+                      "id": "01a11028-4a80-7d91-9cc7-54cfae6517ea",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/main_about/1791272429849-1q0kz1cubp.webp",
+                      "sortOrder": 3,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "2298d017-8988-4859-9653-c07f780b0bfe"
+                    }
+                  ],
+                  "blockId": "2298d017-8988-4859-9653-c07f780b0bfe",
+                  "description": "가평의 청정한 자연과 함께하는\n가평 K캠핑장 (케이캠핑장)에 오신 것을 환영합니다.\n\n가평 K캠핑장 (케이캠핑장)은 가평 남이섬 인근 칼봉산 자연 휴양림 계곡에 위치하고 있습니다.\n대자연의 푸르름과 편안한 휴식이 있는 이곳은 2000여평의 넓은 삼림속에\n최신시설의 넓은 공간의 17개 사이트와 통나무펜션으로 구성되어 있습니다.\n\n가평 K캠핑장 (케이캠핑장)은\n도시의 일상에서 지친 몸과 마음을 정화할 수 있는 수십년이상 된 삼림으로\n가득한 울창한 휴양림과 자연수림 산책로가 잘 갖추어져 있으며\n캠핑장 앞으로는 맑고 깨끗하고 시원한 계곡물이 흐르고 있습니다.\n\n가평 K캠핑장 (케이캠핑장)에서 잊지 못할 추억을 만들어 보세요."
+                },
+                {
+                  "title": "Landscape",
+                  "images": [
+                    {
+                      "id": "01a11028-4a84-7f9e-aef7-e321924fc6dd",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/main_about/1791272429962-codaa6l2dl.webp",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "eddaee4f-b5a4-43e3-85c9-60522b3510a0"
+                    },
+                    {
+                      "id": "01a11028-4a92-7233-898f-b7f2413032e9",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/main_about/1791272430020-aopq9vd6ub.webp",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "eddaee4f-b5a4-43e3-85c9-60522b3510a0"
+                    },
+                    {
+                      "id": "01a11028-4a9b-7447-a0ca-c22b31da3587",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/main_about/1791272430191-ywks1ynt75.webp",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "eddaee4f-b5a4-43e3-85c9-60522b3510a0"
+                    },
+                    {
+                      "id": "01a11028-4ab9-7bb9-981b-3dc9e7e2e357",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/main_about/1791272430200-63oq5eja17.webp",
+                      "sortOrder": 3,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "eddaee4f-b5a4-43e3-85c9-60522b3510a0"
+                    },
+                    {
+                      "id": "01a11028-4aa8-7b94-8b7e-70ac233f325f",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/main_about/1791272430208-5750e87go3.webp",
+                      "sortOrder": 4,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "eddaee4f-b5a4-43e3-85c9-60522b3510a0"
+                    }
+                  ],
+                  "blockId": "eddaee4f-b5a4-43e3-85c9-60522b3510a0",
+                  "description": "아름다운 자연이 함께하는\n가평 K캠핑장 (케이캠핑장)을 미리 만나보세요."
+                }
+              ]
+            }
+          ]
+        },
+        "room": [
+          {
+            "id": "ba6a4200-fa06-424b-954d-001246ee6190",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": [ ],
+                  "description": ""
+                },
+                "gallery": {
+                  "title": "",
+                  "images": [ ],
+                  "description": ""
+                }
+              }
+            ]
+          },
+          {
+            "id": "6ff77b4d-f9a3-4be4-91c5-f69e6ab907bf",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": [ ],
+                  "description": ""
+                },
+                "gallery": {
+                  "title": "",
+                  "images": [ ],
+                  "description": ""
+                }
+              }
+            ]
+          },
+          {
+            "id": "fc4e2169-3da3-489f-a708-7257a6325bce",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": [ ],
+                  "description": ""
+                },
+                "gallery": {
+                  "title": "",
+                  "images": [ ],
+                  "description": ""
+                }
+              }
+            ]
+          },
+          {
+            "id": "da4db2d1-4491-41b3-9882-de3faa9930cf",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": [ ],
+                  "description": ""
+                },
+                "gallery": {
+                  "title": "",
+                  "images": [ ],
+                  "description": ""
+                }
+              }
+            ]
+          },
+          {
+            "id": "7891980c-3687-4085-8f7d-8a84e49a5432",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": [ ],
+                  "description": ""
+                },
+                "gallery": {
+                  "title": "",
+                  "images": [ ],
+                  "description": ""
+                }
+              }
+            ]
+          },
+          {
+            "id": "ddf1a9ab-3229-4a53-8e84-9d5a7f5a237f",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": [ ],
+                  "description": ""
+                },
+                "gallery": {
+                  "title": "",
+                  "images": [ ],
+                  "description": ""
+                }
+              }
+            ]
+          },
+          {
+            "id": "e252fabf-28b7-46b2-975f-b3e3abe76dfa",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": [ ],
+                  "description": ""
+                },
+                "gallery": {
+                  "title": "",
+                  "images": [ ],
+                  "description": ""
+                }
+              }
+            ]
+          },
+          {
+            "id": "672a09d9-4531-4503-b8c6-ff5c8424b531",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": [ ],
+                  "description": ""
+                },
+                "gallery": {
+                  "title": "",
+                  "images": [ ],
+                  "description": ""
+                }
+              }
+            ]
+          },
+          {
+            "id": "d8bdb4ba-c0c2-41d4-96e1-548da044e029",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": [ ],
+                  "description": ""
+                },
+                "gallery": {
+                  "title": "",
+                  "images": [ ],
+                  "description": ""
+                }
+              }
+            ]
+          }
+        ],
+        "facility": [ ],
+        "reservation": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [
+                  {
+                    "id": "01a11028-4ab4-732d-9e99-3e14837f2762",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/reservation_hero/1791272430254-yc3iy92xi6.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": ""
+              },
+              "about": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              }
+            }
+          ]
+        },
+        "nearbyAttractions": {
+          "sections": [
+            {
+              "hero": {
+                "title": "주변 여행지",
+                "images": [
+                  {
+                    "id": "01a11028-4ac7-72c6-9c98-353459b3bd41",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/nearby_attractions_hero/1791272430638-yn9jnbssn7.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": "가평 K캠핑장 (케이캠핑장) - 관광안내"
+              },
+              "about": [
+                {
+                  "title": "가평레일바이크",
+                  "images": [
+                    {
+                      "id": "01a11028-4b88-7f44-9ff9-029fc53d96cc",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/nearby_attractions_about/1791272430648-mczeejmhyk.webp",
+                      "sortOrder": 0,
+                      "description": "펜션에서 약 3.7km, 차량 약 8분 거리",
+                      "isSelected": true,
+                      "blockId": "575853ac-2fda-4758-9a04-6d507ffdf9d9"
+                    }
+                  ],
+                  "blockId": "575853ac-2fda-4758-9a04-6d507ffdf9d9",
+                  "description": "영화 ‘편지’의 촬영지 경강역, 가평의 참 맛을 느낄 수 있는 가평전통장. 계절 따라 그 모습을 달리하는 느티나무터널, 북한강을 가로지르는 높이 30m의 아찔한 북한강 철교를 횡단하는 코스, 가평역을 출발하여 경강역에서 회차, 가평역으로 돌아오는 왕복코스입니다.\n자료출처 : 대한민국 구석구석(http://korean.visitkorea.or.kr) / 강촌레일파크 (gprailpark.com)"
+                },
+                {
+                  "title": "자라섬",
+                  "images": [
+                    {
+                      "id": "01a11028-4ae1-7a1b-bf87-8ec7fcd7b49f",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/nearby_attractions_about/1791272430649-z35pxwr4z4.webp",
+                      "sortOrder": 0,
+                      "description": "펜션에서 약 4.9km, 차량 약 12분 거리",
+                      "isSelected": true,
+                      "blockId": "8f64a922-e3bd-4c7e-80a6-808855a0ed2b"
+                    }
+                  ],
+                  "blockId": "8f64a922-e3bd-4c7e-80a6-808855a0ed2b",
+                  "description": "자라처럼 생긴 언덕’이 바라보고 있는 섬이라 하여 ‘자라섬’이라는 이름을 얻었다. 동도, 서도, 중도, 남도 등 4개 섬으로 이뤄진 자라섬에는 레저 및 생태공원 시설도 들어서고 있다. 자라섬은 캠핑으로도 유명하지만 2004년부터 열리고 있는 자라섬국제재즈페스티벌이 열리는 곳으로도 알려져 있다.\n자료출처 : 대한민국 구석구석(http://korean.visitkorea.or.kr)"
+                },
+                {
+                  "title": "남이섬",
+                  "images": [
+                    {
+                      "id": "01a11028-4ae3-78d1-ac8d-c4e76afbe1c9",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/nearby_attractions_about/1791272430807-oztvga4yiz.webp",
+                      "sortOrder": 0,
+                      "description": "펜션에서 약 6.3km, 차량 약 13분 거리",
+                      "isSelected": true,
+                      "blockId": "a46d847f-ed7e-4d06-9a8b-f60d3a7d1561"
+                    }
+                  ],
+                  "blockId": "a46d847f-ed7e-4d06-9a8b-f60d3a7d1561",
+                  "description": "남이섬의 아름다운 풍광과 잘 어우러진 드라마 〈겨울연가〉의 성공으로 아시아권 관광객이 급증하면서 문화 관광지로 탈바꿈했고, 최근에는 북미와 유럽, 중동 관광객뿐만 아니라 국내에 거주하는 외국인이 찾고 싶어 하는 청정 자연 휴양지로 각광 받고 있다.\n자료출처 : 대한민국 구석구석(http://korean.visitkorea.or.kr)"
+                },
+                {
+                  "title": "제이드가든 수목원",
+                  "images": [
+                    {
+                      "id": "01a11028-4ae5-7ca3-9dce-3b046e4bbbb7",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/nearby_attractions_about/1791272430807-7sc3kaq4qu.webp",
+                      "sortOrder": 0,
+                      "description": "펜션에서 약 7.8km, 차량 약 15분 거리",
+                      "isSelected": true,
+                      "blockId": "5de69258-41a1-4c82-8615-821490bb022d"
+                    }
+                  ],
+                  "blockId": "5de69258-41a1-4c82-8615-821490bb022d",
+                  "description": "제이드가든은 자연의 계곡 지형을 그대로 살려 화훼나 수목, 건축 양식과 건물 배치 등을 유럽풍에 맞추었다. 약 5만평의 규모로 계곡 사이의 지형을 따라 길게 이어지며, 만병초류와 단풍나무류 붓꽃류 블루베리 등 3,000종의 식물을 보유하고 있다.\n자료출처 : 대한민국 구석구석(http://korean.visitkorea.or.kr)"
+                },
+                {
+                  "title": "사계절 썰매장",
+                  "images": [
+                    {
+                      "id": "01a11028-4b88-794f-a992-b65dde8c5311",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/nearby_attractions_about/1791272430924-n4mutil1wn.webp",
+                      "sortOrder": 0,
+                      "description": "펜션에서 약 19.5km, 차량 약 29분 거리",
+                      "isSelected": true,
+                      "blockId": "fa792def-8914-4ff9-9b61-898e2644fe68"
+                    }
+                  ],
+                  "blockId": "fa792def-8914-4ff9-9b61-898e2644fe68",
+                  "description": "사계절썰매장의 주요시설은 초급용/ 중급용의 슬로프와 수평보행기(무빙워커)가 있고 매점 및 식당의 휴게시설과 남녀 탈의실 및 샤워실, 어린이/일반 야외 수영장, 그늘막 4동 등의 부대시설이 마련되어 있다. 가평군 사계절 썰매장은 수도권 유일의 가족 레저 체험공간의 장소를 제공한다\n자료출처 : 대한민국 구석구석(http://korean.visitkorea.or.kr)"
+                },
+                {
+                  "title": "청평호반",
+                  "images": [
+                    {
+                      "id": "01a11028-4b1e-7bda-a82f-c84ff5d5b100",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/nearby_attractions_about/1791272430988-eu0k567th9.webp",
+                      "sortOrder": 0,
+                      "description": "펜션에서 약 25.1km, 차량 약 37분 거리",
+                      "isSelected": true,
+                      "blockId": "3b7f8c62-0b53-4320-bf7b-9a32ec602ae1"
+                    }
+                  ],
+                  "blockId": "3b7f8c62-0b53-4320-bf7b-9a32ec602ae1",
+                  "description": "청평에서 자동차로 약 10분 거리에 있는 청평호는 북한강을 막아 만든 청평댐으로 인해 생긴 인공호수이다. 주위의 산과 호반의 맑은 물이 빚어내는 경치가 매우 아름다울 뿐 아니라, 서울에서 불과 50km 떨어진 곳이므로 당일코스 관광지로 발전하기 시작했다.\n자료출처 : 대한민국 구석구석(http://korean.visitkorea.or.kr)"
+                },
+                {
+                  "title": "아침고요수목원",
+                  "images": [
+                    {
+                      "id": "01a11028-4b29-724a-a9b6-358b58d6d8d3",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/nearby_attractions_about/1791272431005-k14emqquo4.webp",
+                      "sortOrder": 0,
+                      "description": "펜션에서 약 26.0km, 차량 약 36분 거리",
+                      "isSelected": true,
+                      "blockId": "0e78ce66-7b3c-433d-b685-e587f99ed5f6"
+                    }
+                  ],
+                  "blockId": "0e78ce66-7b3c-433d-b685-e587f99ed5f6",
+                  "description": "아침고요수목원은 축령산의 빼어난 자연경관을 배경으로 하여 한국의 미를 듬뿍 담은 정원들을 원예학적으로 조화시켜 설계한 원예수목원이다. 여러 가지 특색 있는 정원을 갖추고 있고, 울창한 잣나무숲 아래에서 삼림욕을 즐길 수도 있어 도시민들에게 쉼터를 제공한다.\n자료출처 : 대한민국 구석구석(http://korean.visitkorea.or.kr)"
+                },
+                {
+                  "title": "에델바이스 스위스 테마파크",
+                  "images": [
+                    {
+                      "id": "01a11028-4b2b-70cc-a164-cb7d07392922",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/nearby_attractions_about/1791272431025-ei7l3ckl25.webp",
+                      "sortOrder": 0,
+                      "description": "펜션에서 약 26.3km, 차량 약 39분 거리",
+                      "isSelected": true,
+                      "blockId": "c94f9283-0073-44b4-ab8a-0d0d779b24dd"
+                    }
+                  ],
+                  "blockId": "c94f9283-0073-44b4-ab8a-0d0d779b24dd",
+                  "description": "에델바이스 스위스테마파크는 경기도 가평군 설악면에 위치해 있으며, 스위스의 작은 마을 축제를 주제로 만들어진 곳이다. 또한 에델바이스에서는 아름다운 스위스 건축물과 풍경, 그리고 다양한 박물관, 갤러리, 테마관, 포토존, 트릭아트 등 아주 작은 아름다운 스위스에 온 듯한 느낌을 받을 수 있다.\n자료출처 : 대한민국 구석구석(http://korean.visitkorea.or.kr)"
+                }
+              ],
+              "enabled": true
+            }
+          ]
+        },
+        "layoutMap": {
+          "sections": [
+            {
+              "hero": {
+                "title": "Room Preview",
+                "images": [
+                  {
+                    "id": "01a11028-4b2c-7262-b963-08b87bc12c4b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/layout_map_hero/1791272431103-gomrngk53c.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": "객실미리보기"
+              },
+              "about": {
+                "title": "Room's Layout",
+                "images": [
+                  {
+                    "id": "01a11028-4b37-7b6a-8d81-03f3ecb0482e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/layout_map_about/1791272431239-vnb1mosfqd.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": "가평 K캠핑장 (케이캠핑장) 배치도"
+              },
+              "enabled": true
+            }
+          ]
+        }
+      },
+      "popup": {
+        "popups": [ ]
+      },
+      "theme": null,
+      "property": {
+        "name": "가평 K캠핑장 (케이캠핑장)",
+        "images": [
+          {
+            "id": "01a11028-4b43-7920-b189-af2d7f7b2a97",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/property_exterior/1791272431261-1f9p84clax.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a11028-4b4b-7760-b0f4-8e12de203809",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/property_exterior/1791272431318-2sp6v5xcef.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a11028-4b58-7283-8852-ac6e3f0cf8fe",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/property_exterior/1791272431317-5n5vuc5vv6.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a11028-4b62-79b0-8830-f1d6c0c4518b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/property_exterior/1791272431439-wvg9nuu2kk.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a11028-4b71-7bf4-ab54-80979d2bd541",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/property_exterior/1791272431719-79dziq0clt.webp",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a11028-4b7e-7a21-996d-b1c502b123b2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/property_exterior/1791272431763-p8itpxaeji.webp",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a11028-4bb8-7e6f-815c-9591c6625dbf",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/property_exterior/1791272431803-1eyhy318r7.webp",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a11028-4bc7-7cf4-8b44-9e5e6de888c2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/property_exterior/1791272431862-s6cu3zfqcb.webp",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a11028-4bce-7bf7-b723-6834ba049c98",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/property_exterior/1791272431911-4qip5f1nd3.webp",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a11028-4bde-762e-ab52-4b135749c719",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/property_exterior/1791272432048-x0gjuj6uc0.webp",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          }
+        ],
+        "nameEn": "K Campingjang"
+      },
+      "roomtypes": [
+        {
+          "id": "ba6a4200-fa06-424b-954d-001246ee6190",
+          "name": "통나무 중형룸A",
+          "images": [
+            {
+              "id": "01a11028-4be4-75be-b5bb-b3a243458346",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_thumbnail/1791272432158-y6ya156fdu.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "ba6a4200-fa06-424b-954d-001246ee6190",
+              "category": "roomtype_thumbnail"
+            },
+            {
+              "id": "01a11028-4bf5-7d99-a928-776de48ffec5",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272432171-8q25wyxshs.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "ba6a4200-fa06-424b-954d-001246ee6190",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4ccd-7592-a6ff-dc9bb3d7fe8a",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272432267-9a5zrq2d61.webp",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "ba6a4200-fa06-424b-954d-001246ee6190",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4ce3-7be4-87ae-2c889932e11e",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272432279-w7obgshgrm.webp",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": "ba6a4200-fa06-424b-954d-001246ee6190",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4ce2-72f3-b94f-d639d5a628cd",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272432330-yd490vzh3a.webp",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": "ba6a4200-fa06-424b-954d-001246ee6190",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4ce2-7d18-8f2f-3b4cf5f04363",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272432447-c3bz4yc63f.webp",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": "ba6a4200-fa06-424b-954d-001246ee6190",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4ce5-71ba-950f-3aa04280846f",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272432461-zipdvxzfrq.webp",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": "ba6a4200-fa06-424b-954d-001246ee6190",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4cde-7d5c-a1a8-eb66dfb290c1",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272432524-ws5sn0mmx5.webp",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": "ba6a4200-fa06-424b-954d-001246ee6190",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4ce3-75f9-b166-4d1eae60571d",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_exterior/1791272432671-lac2kpmco9.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "ba6a4200-fa06-424b-954d-001246ee6190",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a11028-4d39-7498-afb2-da58a48382fc",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_exterior/1791272432675-z9lc04vc1u.webp",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "ba6a4200-fa06-424b-954d-001246ee6190",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a11028-4d3a-79ff-85c2-d513f4cd0e53",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_exterior/1791272432766-zplt1knh7k.webp",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": "ba6a4200-fa06-424b-954d-001246ee6190",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a11028-4d38-79c5-a0c0-b3d091c66dc3",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_exterior/1791272432776-n11m3rn2j2.webp",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": "ba6a4200-fa06-424b-954d-001246ee6190",
+              "category": "roomtype_exterior"
+            }
+          ],
+          "nameEn": "",
+          "groupName": "펜션"
+        },
+        {
+          "id": "6ff77b4d-f9a3-4be4-91c5-f69e6ab907bf",
+          "name": "A-1(파쇄석/2가족사이트)",
+          "images": [
+            {
+              "id": "01a11028-4cfb-76a6-abea-356f6b086099",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_thumbnail/1791272432812-px0vmaxr7g.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "6ff77b4d-f9a3-4be4-91c5-f69e6ab907bf",
+              "category": "roomtype_thumbnail"
+            },
+            {
+              "id": "01a11028-4d36-7564-82aa-0ab22db29d8a",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272432991-cftvqs8w1d.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "6ff77b4d-f9a3-4be4-91c5-f69e6ab907bf",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4cff-71c3-9d08-2a517fce500e",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272433168-vhexg0t08o.webp",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "6ff77b4d-f9a3-4be4-91c5-f69e6ab907bf",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4d4c-797d-9462-f7a4a4bc467e",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272433207-tqhlas271k.webp",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": "6ff77b4d-f9a3-4be4-91c5-f69e6ab907bf",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4d4d-75fa-9844-798bfbe1f049",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_exterior/1791272433249-asknbpg08r.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "6ff77b4d-f9a3-4be4-91c5-f69e6ab907bf",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a11028-4d4e-71eb-b0a0-8535812788ad",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_exterior/1791272433316-jqepail945.webp",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "6ff77b4d-f9a3-4be4-91c5-f69e6ab907bf",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a11028-4d4e-7e35-957c-6c36512c7651",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_exterior/1791272433348-m4h8gli2xs.webp",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": "6ff77b4d-f9a3-4be4-91c5-f69e6ab907bf",
+              "category": "roomtype_exterior"
+            }
+          ],
+          "nameEn": "",
+          "groupName": "캠핑장"
+        },
+        {
+          "id": "fc4e2169-3da3-489f-a708-7257a6325bce",
+          "name": "A-3(파쇄석/2가족사이트)",
+          "images": [
+            {
+              "id": "01a11028-4d50-7df9-85d6-5dcd2824da10",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_thumbnail/1791272433427-lyo4bdhf93.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "fc4e2169-3da3-489f-a708-7257a6325bce",
+              "category": "roomtype_thumbnail"
+            },
+            {
+              "id": "01a11028-4d52-78c4-a9a2-62ba2fe840f5",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272433488-oz26lgqr1c.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "fc4e2169-3da3-489f-a708-7257a6325bce",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4d63-7a82-9c3e-1b5031dd7696",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272433724-j3nkjro104.webp",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "fc4e2169-3da3-489f-a708-7257a6325bce",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4d64-7972-90cd-f32e31a8b4db",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_exterior/1791272433774-7sl03be68q.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "fc4e2169-3da3-489f-a708-7257a6325bce",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a11028-4d64-74ac-b794-88693f460aa6",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_exterior/1791272433856-qut5b3rlxx.webp",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "fc4e2169-3da3-489f-a708-7257a6325bce",
+              "category": "roomtype_exterior"
+            }
+          ],
+          "nameEn": "",
+          "groupName": "캠핑장"
+        },
+        {
+          "id": "da4db2d1-4491-41b3-9882-de3faa9930cf",
+          "name": "A-5(테크)",
+          "images": [
+            {
+              "id": "01a11028-4d66-7248-9dd3-da49b60789a0",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_thumbnail/1791272434038-rx9ba1u1tu.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "da4db2d1-4491-41b3-9882-de3faa9930cf",
+              "category": "roomtype_thumbnail"
+            },
+            {
+              "id": "01a11028-4d67-7d4d-bb13-eb04f58fe82e",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272434052-9bsc9lk72p.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "da4db2d1-4491-41b3-9882-de3faa9930cf",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4d6c-7098-b70b-66f58e4eaf75",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272434067-uqng3wi7c9.webp",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "da4db2d1-4491-41b3-9882-de3faa9930cf",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4dab-78cd-9d88-0822fdb9d897",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272434167-36z75gu8d4.webp",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": "da4db2d1-4491-41b3-9882-de3faa9930cf",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4d7b-731e-960e-5eda2d4b4b77",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_exterior/1791272434221-a9oe4ds269.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "da4db2d1-4491-41b3-9882-de3faa9930cf",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a11028-4dab-7515-9a9b-f9d7f627cc8c",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_exterior/1791272434416-684vpnmyoq.webp",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "da4db2d1-4491-41b3-9882-de3faa9930cf",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a11028-4d7e-71ea-a992-360945af0eac",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_exterior/1791272434483-5vrcg5whi9.webp",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": "da4db2d1-4491-41b3-9882-de3faa9930cf",
+              "category": "roomtype_exterior"
+            }
+          ],
+          "nameEn": "",
+          "groupName": "캠핑장"
+        },
+        {
+          "id": "7891980c-3687-4085-8f7d-8a84e49a5432",
+          "name": "A6~A11(테크)",
+          "images": [
+            {
+              "id": "01a11028-4daf-7650-9215-0ddc14bf73ed",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_thumbnail/1791272434516-pg4qv21895.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "7891980c-3687-4085-8f7d-8a84e49a5432",
+              "category": "roomtype_thumbnail"
+            },
+            {
+              "id": "01a11028-4dae-70ce-8bb1-a09820c61735",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272434553-292h7vp4zc.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "7891980c-3687-4085-8f7d-8a84e49a5432",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4d90-76f8-a7dd-3b79e680306e",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272434581-waesgwkyck.webp",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "7891980c-3687-4085-8f7d-8a84e49a5432",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4d91-7c88-bc32-344d8e6fd79a",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272434592-m4hb9uiqtu.webp",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": "7891980c-3687-4085-8f7d-8a84e49a5432",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4da6-74d8-a66a-738bcc523b00",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_exterior/1791272434830-37pwb4en17.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "7891980c-3687-4085-8f7d-8a84e49a5432",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a11028-4da6-7dd6-8de7-abe22c9bf998",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_exterior/1791272434885-1q6tsqnuts.webp",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "7891980c-3687-4085-8f7d-8a84e49a5432",
+              "category": "roomtype_exterior"
+            }
+          ],
+          "nameEn": "",
+          "groupName": "캠핑장"
+        },
+        {
+          "id": "ddf1a9ab-3229-4a53-8e84-9d5a7f5a237f",
+          "name": "B-1(테크)",
+          "images": [
+            {
+              "id": "01a11028-4dbb-7bbb-bf54-48a528994ad8",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_thumbnail/1791272434921-lyqzs1dur0.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "ddf1a9ab-3229-4a53-8e84-9d5a7f5a237f",
+              "category": "roomtype_thumbnail"
+            },
+            {
+              "id": "01a11028-4dbc-7faa-bfb1-ab19c84c3237",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272435058-27bfgqhlzb.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "ddf1a9ab-3229-4a53-8e84-9d5a7f5a237f",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4dc4-70d4-80a8-d985f58e453d",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272435134-n53zo3ogd1.webp",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "ddf1a9ab-3229-4a53-8e84-9d5a7f5a237f",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4dc4-7e33-9c4a-61435feb4559",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272435164-hpyif59kj7.webp",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": "ddf1a9ab-3229-4a53-8e84-9d5a7f5a237f",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4dc7-7700-afab-fd06e0134879",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_exterior/1791272435277-wcny78i5bl.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "ddf1a9ab-3229-4a53-8e84-9d5a7f5a237f",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a11028-4dc8-73ed-ae6f-d1fe086e8e5b",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_exterior/1791272435310-eyzfkbctat.webp",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "ddf1a9ab-3229-4a53-8e84-9d5a7f5a237f",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a11028-4dd3-7ab5-ae3c-b3375cdba20f",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_exterior/1791272435450-379z4k0l5d.webp",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": "ddf1a9ab-3229-4a53-8e84-9d5a7f5a237f",
+              "category": "roomtype_exterior"
+            }
+          ],
+          "nameEn": "",
+          "groupName": "캠핑장"
+        },
+        {
+          "id": "e252fabf-28b7-46b2-975f-b3e3abe76dfa",
+          "name": "B-4(테크/2가족사이트)",
+          "images": [
+            {
+              "id": "01a11028-4dd4-7393-bc74-59b4a2f46834",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_thumbnail/1791272435531-wawbtynkqn.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "e252fabf-28b7-46b2-975f-b3e3abe76dfa",
+              "category": "roomtype_thumbnail"
+            },
+            {
+              "id": "01a11028-4ddd-7c84-98f0-8cb393ad16d5",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272435653-3aeld7fvwd.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "e252fabf-28b7-46b2-975f-b3e3abe76dfa",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4ddb-72c3-b017-94ae9a362301",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272435669-mzk9pn40gg.webp",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "e252fabf-28b7-46b2-975f-b3e3abe76dfa",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4ddc-726b-acdb-27f90841ffe3",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272435677-lw2wvubm07.webp",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": "e252fabf-28b7-46b2-975f-b3e3abe76dfa",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4dde-76f2-855b-0e5d701a4057",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_exterior/1791272435840-mklt9ss81c.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "e252fabf-28b7-46b2-975f-b3e3abe76dfa",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a11028-4de8-7e6f-acda-6a1ed35aab50",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_exterior/1791272435860-iv9s5v0o3m.webp",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "e252fabf-28b7-46b2-975f-b3e3abe76dfa",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a11028-4de9-71d3-9cf5-1a28564ed1a8",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_exterior/1791272435868-20jp17j7f5.webp",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": "e252fabf-28b7-46b2-975f-b3e3abe76dfa",
+              "category": "roomtype_exterior"
+            }
+          ],
+          "nameEn": "",
+          "groupName": "캠핑장"
+        },
+        {
+          "id": "672a09d9-4531-4503-b8c6-ff5c8424b531",
+          "name": "B-7(파쇄석/2가족사이트)",
+          "images": [
+            {
+              "id": "01a11028-4df3-7279-b679-5001ba867f1b",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_thumbnail/1791272436197-qzea3hvr27.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "672a09d9-4531-4503-b8c6-ff5c8424b531",
+              "category": "roomtype_thumbnail"
+            },
+            {
+              "id": "01a11028-4df4-713c-9a03-3719ba79dcef",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272436266-p5e4yuxf4k.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "672a09d9-4531-4503-b8c6-ff5c8424b531",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4df3-7fa2-9725-48564b7f3113",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272436284-g9p61ci5ku.webp",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "672a09d9-4531-4503-b8c6-ff5c8424b531",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4df3-7bad-9de5-97532960f110",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272436356-xc7qxbiiay.webp",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": "672a09d9-4531-4503-b8c6-ff5c8424b531",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4dff-7a14-907d-610db4b22b5c",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_exterior/1791272436351-bcasg6296g.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "672a09d9-4531-4503-b8c6-ff5c8424b531",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a11028-4dff-7c7c-8580-01b812687818",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_exterior/1791272436434-7pst1je4yh.webp",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "672a09d9-4531-4503-b8c6-ff5c8424b531",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a11028-4e09-7725-986e-f6a2931903c7",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_exterior/1791272436524-gwgw2r7wq3.webp",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": "672a09d9-4531-4503-b8c6-ff5c8424b531",
+              "category": "roomtype_exterior"
+            }
+          ],
+          "nameEn": "",
+          "groupName": "캠핑장"
+        },
+        {
+          "id": "d8bdb4ba-c0c2-41d4-96e1-548da044e029",
+          "name": "B-8(파쇄석)",
+          "images": [
+            {
+              "id": "01a11028-4e0a-7f2d-b0d0-b503c2cde712",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_thumbnail/1791272436734-0nzkjum2iz.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "d8bdb4ba-c0c2-41d4-96e1-548da044e029",
+              "category": "roomtype_thumbnail"
+            },
+            {
+              "id": "01a11028-4e3c-726b-8264-135bd62b75f3",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272436745-onc4yo0jui.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "d8bdb4ba-c0c2-41d4-96e1-548da044e029",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4e13-77aa-9ed5-d518bb374705",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272436946-tvpgh70f72.webp",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "d8bdb4ba-c0c2-41d4-96e1-548da044e029",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4e5f-7b89-b3c6-1e54ebf6a154",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272437026-vx1ssj1pxq.webp",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": "d8bdb4ba-c0c2-41d4-96e1-548da044e029",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4e5d-78b4-8797-c820a844145f",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272437086-oqdlu7jcnw.webp",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": "d8bdb4ba-c0c2-41d4-96e1-548da044e029",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4e49-7c10-9725-e213252e5286",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272437076-xvss6qtqnw.webp",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": "d8bdb4ba-c0c2-41d4-96e1-548da044e029",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4e4c-788a-943b-43ba985f053d",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_interior/1791272437154-h9z0yptt1q.webp",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": "d8bdb4ba-c0c2-41d4-96e1-548da044e029",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11028-4e60-72ae-b8cf-153208625af4",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_exterior/1791272437364-ei8b9mj96c.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "d8bdb4ba-c0c2-41d4-96e1-548da044e029",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a11028-4ea9-7bc4-ae59-d5b346846d3d",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_exterior/1791272437368-4jnghzre1x.webp",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "d8bdb4ba-c0c2-41d4-96e1-548da044e029",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a11028-4ea0-7ef5-a2a0-cd98823cb3d9",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11028-1c3c-7563-a9a4-eb982b96f663/roomtype_exterior/1791272437495-3e4c8im9wz.webp",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": "d8bdb4ba-c0c2-41d4-96e1-548da044e029",
+              "category": "roomtype_exterior"
+            }
+          ],
+          "nameEn": "",
+          "groupName": "캠핑장"
+        }
+      ]
+    }
+  }
+}
